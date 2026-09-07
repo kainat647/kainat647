@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Kainat 👋
 
-<!--
-**kainat647/kainat647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student from Karachi, Pakistan.
 
-Here are some ideas to get you started:
+**Featured Project:**
+- [News Agent](https://github.com/kainat647/News-Agent) — AI-powered news analytics PWA with real-time summaries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack:** Next.js • React • Supabase • Tailwind CSS • Groq AI
+
+**What I'm working on:** Full-stack development, AI integration, backend systems
+
+**Connect with me:**
+- Portfolio: news-agent-bay.vercel.app
+- LinkedIn: linkedin.com/in/kainat-ali-3a501a328
+- Email: kainatali53566@gmail.com or std_37032@iobm.edu.pk
+
